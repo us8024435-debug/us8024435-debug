@@ -1,5 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [1] HEADER — capsule-render waving banner                            -->
+<!-- [1] HEADER                                                            -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=AI+%26+Data+Strategy+Intern+%40+Treesy+%F0%9F%8C%B3+Denmark;Building+RAG+Systems+%26+LLM-Powered+Apps+%F0%9F%A4%96;MERN+Stack+%7C+GenAI+%7C+Oracle+OCI+Certified+%E2%98%81%EF%B8%8F;Python+%C2%B7+Data+Scraping+%C2%B7+Lead+Gen+Automation;Final+Year+BCA+AI+%E2%80%94+Invertis+University+%F0%9F%8E%93;Turning+burnout+into+commits+since+2023+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=Shipped+production+tools.+Now+looking+for+the+right+team.;RAG+Systems+%7C+LLM+Apps+%7C+MERN+Stack+%7C+FastAPI;Built+live+at+Treesy.dk+%E2%80%94+Denmark+Climate-Tech+%F0%9F%8C%B3;BCA+AI+Graduate+%E2%80%94+Invertis+University+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,7 +39,7 @@
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [4] ABOUT ME — TypeScript code block                                  -->
+<!-- [4] ABOUT ME                                                          -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -50,59 +50,38 @@
 
 ```ts
 const ujjwal = {
-    role: "AI Engineer & Full-Stack Developer",
-    company: "Treesy.dk — Denmark-based Climate-Tech Startup (Remote)",
-    university: "Invertis University, Bareilly — BCA AI Specialization",
-    graduating: "May 2026",
-    location: "Bareilly, Uttar Pradesh, India 🇮🇳",
+    role:     "AI Engineer & Full-Stack Developer",
+    status:   "🟢 Open to full-time roles — AI / Full-Stack / Frontend",
+    location: "Bareilly, India 🇮🇳",
+    degree:   "BCA AI Specialization — Invertis University, May 2026",
 
-    currentRole: {
-        title: "AI & Data Strategy Intern",
-        org: "Treesy.dk",
-        since: "February 2026",
-        doing: [
-            "B2B lead generation via Python data scraping",
-            "Competitor intelligence datasets for market analysis",
-            "Data-driven outbound infra for LinkedIn + CRM",
-            "Collaborating with Founder & CEO on AI-driven strategy",
-        ],
-    },
+    shipped: [
+        "Travel CO₂ Calculator  →  live at treesy.dk         (Vanilla JS · PDF export · Netlify)",
+        "DocuMind               →  RAG document assistant    (FastAPI · LangChain · ChromaDB)",
+        "3D Portfolio           →  ujjwal-ai.netlify.app     (Spline · React · Tailwind)",
+        "B2B Lead Scraper       →  1,000+ leads generated    (Python · CVR API · Danish market)",
+    ],
 
     stack: {
-        ai:       ["RAG Systems", "LLM Integration", "LangChain", "Prompt Engineering",
-                    "Generative AI", "Vector Databases", "Semantic Search"],
-        frontend: ["React", "Vite", "Tailwind CSS", "Vanilla JS", "Responsive Design"],
-        backend:  ["Node.js", "Express.js", "RESTful APIs", "FastAPI", "CI/CD"],
-        cloud:    ["Oracle OCI", "Google Cloud Platform", "Docker", "GitHub Actions"],
-        data:     ["Data Scraping", "Data Analysis", "Data Cleaning",
-                    "Lead Generation", "Market Research", "Automation"],
-        database: ["MongoDB", "PostgreSQL", "SQL", "Vector DBs"],
+        ai:       ["LangChain", "RAG", "ChromaDB", "HuggingFace", "OpenRouter", "Prompt Engineering"],
+        frontend: ["React", "Next.js", "Tailwind CSS", "Vite", "Vanilla JS"],
+        backend:  ["FastAPI", "Node.js", "Express.js", "RESTful APIs"],
+        infra:    ["GitHub Actions", "Docker", "Netlify", "Oracle OCI"],
+        data:     ["Python", "Data Scraping", "PostgreSQL", "MongoDB"],
     },
 
-    projects: [
-        "DocuMind — RAG-based intelligent document assistant (95%+ accuracy)",
-        "Treesy CO2 Calc — Enterprise travel carbon footprint calculator",
-        "AI Portfolio Site — 3D interactive portfolio (Spline + React + Tailwind)",
-    ],
-
-    certifications: [
-        "Google Gemini Certified University Student",
-        "Oracle Cloud Infrastructure 2025 — AI Foundations Associate",
+    certs: [
+        "Oracle Cloud Infrastructure 2025 — AI Foundations Associate ☁️",
+        "Google Gemini Certified",
         "McKinsey Forward Program",
-        "Python 101 for Data Science — Cognitive Class",
-        "Introduction to Data Science",
-        "SAP BW/4HANA On-Premise Data Warehouse",
     ],
-
-    topSkills: ["Prompt Engineering", "Large Language Models", "Analytical Skills"],
-    lifeMode: "10hr study • 4hr grind • repeat 🔁",
 };
-```
+` ` `
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [5] TECH ARSENAL — skillicons.dev                                     -->
+<!-- [5] TECH ARSENAL                                                      -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -140,7 +119,7 @@ const ujjwal = {
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [7] GITHUB STATS — side by side                                       -->
+<!-- [7] GITHUB STATS                                                      -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -174,39 +153,7 @@ const ujjwal = {
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [9] GITHUB TROPHIES                                                   -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=us8024435-debug&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [10] ACTIVITY GRAPH                                                   -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-<br/>
-
-[![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=us8024435-debug&bg_color=0d0d0d&color=00ffe0&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [11] FEATURED PROJECTS — pinned repo cards                            -->
+<!-- [9] FEATURED PROJECTS                                                 -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -228,27 +175,7 @@ const ujjwal = {
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [12] CURRENTLY BUILDING                                               -->
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## ⚡ Currently Building
-
-<br/>
-
-![Treesy CO2 Calculator v2.0](https://img.shields.io/badge/🌍_Treesy_CO2_Calculator-v2.0-22c55e?style=for-the-badge&labelColor=0d0d0d)
-&nbsp;
-![3D Portfolio](https://img.shields.io/badge/🎨_3D_Portfolio-ujjwal--ai.netlify.app-00ffe0?style=for-the-badge&labelColor=0d0d0d)
-&nbsp;
-![AI Agent Framework](https://img.shields.io/badge/🤖_AI_Agent-Framework-a78bfa?style=for-the-badge&labelColor=0d0d0d)
-
-</div>
-
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [13] CONNECT                                                          -->
+<!-- [10] CONNECT                                                          -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -270,7 +197,7 @@ const ujjwal = {
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════════════ -->
-<!-- [14] FOOTER                                                           -->
+<!-- [11] FOOTER                                                           -->
 <!-- ════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -279,6 +206,24 @@ const ujjwal = {
 
 <br/>
 
-*"One more day. Just one more day. 🔥"*
+*"I don't just learn tools — I ship with them."*
 
 </div>
+```
+
+---
+
+### What Got Cut & Why
+
+| Removed | Reason |
+|---|---|
+| `lifeMode: "10hr study • 4hr grind"` | Sounds like a student cope, not a professional signal |
+| `topSkills: ["Analytical Skills"...]` | Generic filler any LinkedIn user has — zero signal |
+| 4 extra certs (SAP, Python 101, etc.) | Quantity dilutes quality; Oracle + Google + McKinsey is the trio that lands |
+| GitHub Trophies section | Decorative noise — recruiters don't care about commit trophies |
+| Activity Graph section | Redundant with streak stats; two graphs = neither lands |
+| "Currently Building" section | Had vague items like "AI Agent Framework" with no proof — hurts more than helps |
+| Burnout typing line | First principles: never let a recruiter's first impression be "this person is tired" |
+| Verbose `currentRole.doing[]` | Duties ≠ proof; replaced with `shipped[]` which has live URLs and outcomes |
+
+The footer quote also changed — *"One more day"* reads as exhaustion. *"I don't just learn tools — I ship with them"* is the exact message a hiring manager needs to hear.
