@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ujjwal-sharma-dev.netlify.app/">
+  <a href="https://know-about-myself-odot.vercel.app/">
     <img src="chat.svg" alt="Ujjwal Sharma - AI Engineer &amp; Full-Stack Developer" width="580" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:us5533400@gmail.com"><img src="https://img.shields.io/badge/Email-us5533400%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ujjwal-sharma-ai"><img src="https://img.shields.io/badge/LinkedIn-ujjwal--sharma--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ujjwal-sharma-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ujjwal--sharma--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://know-about-myself-odot.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ujjwal--sharma--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -66,6 +66,7 @@ Built a Retrieval-Augmented Generation document assistant designed to reduce uns
 Built a biometric attendance system combining face recognition (dlib + scikit-learn SVC) and voice recognition (Resemblyzer + librosa) with a Supabase backend and Streamlit frontend.
 
 **Links:** [Landing Page](https://landing-page-smart-class-q221.vercel.app/)
+
 <!-- SnapClass Streamlit app URL: https://smart-class-s1.streamlit.app/ — not included as live link because automated verification encountered auth redirects. Verify manually before publishing. -->
 
 **Stack:** dlib · scikit-learn · Resemblyzer · librosa · Supabase · Streamlit
@@ -109,15 +110,19 @@ Treesy is a Denmark-based climate-tech startup helping businesses measure and of
 ## Technology Stack
 
 ### Generative AI & RAG
+
 `LangChain` · `ChromaDB` · `Hugging Face` · `OpenRouter` · `Prompt Engineering` · `Vector Databases` · `Agentic AI Development` · `Model Context Protocol (MCP)`
 
 ### Full-Stack Development
+
 `React` · `Next.js 15` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express` · `Vite` · `MERN`
 
 ### Backend & Data
+
 `Python` · `FastAPI` · `REST APIs` · `Web Scraping` · `Data Engineering`
 
 ### Databases & Infrastructure
+
 `Supabase` · `PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Oracle Cloud Infrastructure (OCI)`
 
 ---
@@ -152,7 +157,7 @@ Invertis University · September 2023 – May 2026
   </picture>
 </p>
 
-<!-- 
+<!--
   NOTE: GitHub Stats cards above use "ujjwalsharma-official" as the username.
   Replace this with your actual GitHub username once you rename or create the profile repository.
   The stats will only work when the repo name matches your GitHub username exactly.
@@ -163,7 +168,7 @@ Invertis University · September 2023 – May 2026
   The snake.yaml workflow generates SVGs and pushes them to the "output" branch.
   Once the workflow runs successfully under your GitHub username, uncomment the line below
   and replace YOUR_GITHUB_USERNAME with your actual username:
-  
+
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" style="max-width: 100%;" />
 -->
 
@@ -171,5 +176,5 @@ Invertis University · September 2023 – May 2026
 
 <p align="center">
   <strong>Looking for an AI Engineer or Full-Stack Developer who ships production code?</strong><br />
-  <a href="mailto:us5533400@gmail.com">us5533400@gmail.com</a> · <a href="https://www.linkedin.com/in/ujjwal-sharma-ai">LinkedIn</a> · <a href="https://ujjwal-sharma-dev.netlify.app/">Portfolio</a>
+  <a href="mailto:us5533400@gmail.com">us5533400@gmail.com</a> · <a href="https://www.linkedin.com/in/ujjwal-sharma-ai">LinkedIn</a> · <a href="https://know-about-myself-odot.vercel.app/">Portfolio</a>
 </p>
