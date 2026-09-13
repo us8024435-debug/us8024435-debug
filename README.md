@@ -148,29 +148,22 @@ Invertis University · September 2023 – May 2026
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ujjwalsharma-official&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma-official&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=us8024435-debug&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=us8024435-debug&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsharma-official&layout=compact&theme=github_dark&hide_border=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsharma-official&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=us8024435-debug&layout=compact&theme=github_dark&hide_border=true" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=us8024435-debug&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
   </picture>
 </p>
 
-<!--
-  NOTE: GitHub Stats cards above use "ujjwalsharma-official" as the username.
-  Replace this with your actual GitHub username once you rename or create the profile repository.
-  The stats will only work when the repo name matches your GitHub username exactly.
--->
-
-<!--
-  Snake contribution animation:
-  The snake.yaml workflow generates SVGs and pushes them to the "output" branch.
-  Once the workflow runs successfully under your GitHub username, uncomment the line below
-  and replace YOUR_GITHUB_USERNAME with your actual username:
-
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" style="max-width: 100%;" />
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/us8024435-debug/us8024435-debug/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/us8024435-debug/us8024435-debug/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/us8024435-debug/us8024435-debug/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+  </picture>
+</p>
 
 ---
 
