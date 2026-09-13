@@ -67,8 +67,6 @@ Built a biometric attendance system combining face recognition (dlib + scikit-le
 
 **Links:** [Landing Page](https://landing-page-smart-class-q221.vercel.app/)
 
-<!-- SnapClass Streamlit app URL: https://smart-class-s1.streamlit.app/ — not included as live link because automated verification encountered auth redirects. Verify manually before publishing. -->
-
 **Stack:** dlib · scikit-learn · Resemblyzer · librosa · Supabase · Streamlit
 
 ---
@@ -107,29 +105,53 @@ Treesy is a Denmark-based climate-tech startup helping businesses measure and of
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
-### Generative AI & RAG
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,postgres,supabase,docker,githubactions,git,html,css,vscode" alt="Tech Stack" />
+</p>
 
-`LangChain` · `ChromaDB` · `Hugging Face` · `OpenRouter` · `Prompt Engineering` · `Vector Databases` · `Agentic AI Development` · `Model Context Protocol (MCP)`
+<br />
 
-### Full-Stack Development
+#### 🧠 Generative AI, RAG & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-06B6D4?style=for-the-badge&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-EC4899?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-10B981?style=for-the-badge&logoColor=white)
 
-`React` · `Next.js 15` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express` · `Vite` · `MERN`
+#### 💻 Full-Stack & Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### Backend & Data
+#### ⚙️ Backend, Data & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF5722?style=for-the-badge&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-4CAF50?style=for-the-badge&logoColor=white)
 
-`Python` · `FastAPI` · `REST APIs` · `Web Scraping` · `Data Engineering`
-
-### Databases & Infrastructure
-
-`Supabase` · `PostgreSQL` · `MongoDB` · `Docker` · `GitHub Actions` · `Oracle Cloud Infrastructure (OCI)`
+#### 🗄️ Databases & Cloud Infrastructure
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
 ## Education
 
-**Bachelor of Computer Applications (BCA) in Artificial Intelligence**
+**Bachelor of Computer Applications (BCA) in Artificial Intelligence**  
 Invertis University · September 2023 – May 2026
 
 ---
@@ -144,30 +166,37 @@ Invertis University · September 2023 – May 2026
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Analytics & Activity
 
-<p align="center">
+<div align="center">
+
+  <a href="https://github.com/us8024435-debug">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=us8024435-debug&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/us8024435-debug">
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=us8024435-debug&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/us8024435-debug">
+    <img src="https://streak-stats.demolab.com?user=us8024435-debug&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <br /><br />
+
+  <h3>🐍 Contribution Graph</h3>
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ujjwalsharma-official&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=ujjwalsharma-official&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/us8024435-debug/us8024435-debug/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/us8024435-debug/us8024435-debug/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/us8024435-debug/us8024435-debug/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsharma-official&layout=compact&theme=github_dark&hide_border=true" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalsharma-official&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-  </picture>
-</p>
 
-NOTE: GitHub Stats cards above use "ujjwalsharma-official" as the username.
-Replace this with your actual GitHub username once you rename or create the profile repository.
-The stats will only work when the repo name matches your GitHub username exactly.
--->
+</div>
 
-Snake contribution animation:
-The snake.yaml workflow generates SVGs and pushes them to the "output" branch.
-Once the workflow runs successfully under your GitHub username, uncomment the line below
-and replace YOUR_GITHUB_USERNAME with your actual username:
-
-## <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" style="max-width: 100%;" />
+---
 
 <p align="center">
   <strong>Looking for an AI Engineer or Full-Stack Developer who ships production code?</strong><br />
