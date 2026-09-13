@@ -8,82 +8,279 @@
 <h3 align="center">AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
-  <em>RAG Systems · FastAPI · Next.js · Production GenAI Tools</em>
+  <em>RAG Systems · FastAPI · Next.js 15 · Production GenAI Tools</em>
 </p>
 
 <p align="center">
-  <a href="mailto:us5533400@gmail.com"><img src="https://img.shields.io/badge/Email-us5533400%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/ujjwal-sharma-ai"><img src="https://img.shields.io/badge/LinkedIn-ujjwal--sharma--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ujjwal-sharma-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ujjwal--sharma--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=600&height=45&lines=Hi+there+%F0%9F%91%8B+I'm+Ujjwal+Sharma;AI+Engineer+%26+Full-Stack+Developer;Building+Production+RAG+%26+GenAI+Systems;Next.js+15+%C2%B7+FastAPI+%C2%B7+LangChain" alt="Typing SVG" />
+  </a>
 </p>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=us8024435-debug&color=00ffe0&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/us8024435-debug)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/us8024435-debug?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d&color=00ffe0)](https://github.com/us8024435-debug)
+&nbsp;
+[![Working at Treesy](https://img.shields.io/badge/%F0%9F%8C%B3_Working_at-Treesy.dk-22c55e?style=for-the-badge&labelColor=0d0d0d)](https://treesy.dk)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/%E2%9C%A6_Open_to-Work-00ffe0?style=for-the-badge&labelColor=0d0d0d)](mailto:us5533400@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:us5533400@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-sharma-ai)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ujjwal-sharma-dev.netlify.app/)
+&nbsp;
+[![Location](https://img.shields.io/badge/Location-Bareilly%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Bareilly)
+
+</div>
 
 ---
 
-I build and ship practical AI and full-stack systems that solve real business problems.
+### 📌 Summary
 
-There's a gap between code that works in a demo and code that actual people depend on. Most projects never close that gap — mine do. Migrating a live CO₂ calculator from Vanilla JS to Next.js 15 while clients were actively using it, and delivering 7,984 verified company records via a Python pipeline to a sales team, taught me what "useful" really means.
+> "There's a gap between code that works in a demo and code that actual people depend on. Most projects never close that gap. Mine do. My approach: build it, ship it, fix what breaks. Migrating a live CO₂ calculator from Vanilla JS to Next.js 15 while clients were using it taught me more than any tutorial. Delivering 7,984 verified company records via a Python pipeline taught me what 'useful' actually means for a sales team."
 
 **Open to:** Remote-first roles globally · On-site in Bangalore, Gurugram, Mumbai, or Hyderabad
 
 ---
 
-## What I've Shipped
+```ts
+const ujjwal = {
+    // ── PROOF ──────────────────────────────────────────────────────
+    shipped: [
+        "Travel CO₂ Calculator  →  live at treesy.dk         (Vanilla JS → Next.js 15 App Router)",
+        "B2B Lead Pipeline      →  7,984 verified records    (Python · CVR API · proff.dk)",
+        "Certificate System     →  FastAPI + Supabase        (Automated real-time 4-tier issuance)",
+        "DocuMind               →  RAG document assistant    (FastAPI · LangChain · ChromaDB)",
+        "SnapClass              →  Biometric attendance      (Face + Voice · dlib · Supabase)",
+        "AdFeed Studio          →  Ad preview generator      (Meta · TikTok · Google Shopping)",
+    ],
 
-### Travel CO₂ Calculator — Treesy.dk
+    // ── IDENTITY ───────────────────────────────────────────────────
+    role:     "AI Engineer & Full-Stack Developer",
+    status:   "🟢 Open to full-time roles — AI / Full-Stack / Backend",
+    location: "Bareilly, Uttar Pradesh, India 🇮🇳",
+    degree:   "BCA AI Specialization — Invertis University, May 2026",
 
+    // ── STACK ──────────────────────────────────────────────────────
+    stack: {
+        ai:       ["LangChain", "RAG", "ChromaDB", "HuggingFace", "OpenRouter", "PyTorch"],
+        frontend: ["React", "Next.js 15", "Tailwind CSS", "TypeScript", "Vite"],
+        backend:  ["FastAPI", "Python", "Node.js", "Express", "RESTful APIs"],
+        infra:    ["Docker", "GitHub Actions", "Supabase", "PostgreSQL", "MongoDB", "Oracle OCI"],
+    },
+
+    // ── CERTS ──────────────────────────────────────────────────────
+    certs: [
+        "Oracle Cloud Infrastructure 2025 — AI Foundations Associate ☁️",
+        "Google Gemini Certified University Student",
+        "McKinsey.org Forward Program",
+        "SAP BW/4HANA On-Premise Data Warehouse",
+        "Introduction to Data Science",
+    ],
+};
+```
+
+---
+
+## 💻 My Favorite Tools & Technologies
+
+<div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+                <br>Python
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+                <br>FastAPI
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+                <br>React
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+                <br>Next.js 15
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+                <br>TypeScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+                <br>JavaScript
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+                <br>Tailwind
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+                <br>PyTorch
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+                <br>TensorFlow
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+                <br>Scikit-learn
+            </td>
+            <td align="center" width="96">
+                <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face" />
+                <br>Hugging Face
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+                <br>Pandas
+            </td>
+            <td align="center" width="96">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
+                <br>NumPy
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+                <br>OpenCV
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+                <br>Node.js
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+                <br>Express
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+                <br>Supabase
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+                <br>PostgreSQL
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+                <br>MySQL
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+                <br>Docker
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
+                <br>Actions
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle OCI" />
+                <br>Oracle OCI
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+                <br>Git
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+                <br>VS Code
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+                <br>Linux
+            </td>
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+                <br>Bash
+            </td>
+        </tr>
+    </table>
+</div>
+
+<br/>
+
+<div align="center">
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+&nbsp;
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+&nbsp;
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white)
+&nbsp;
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-EC4899?style=for-the-badge&logoColor=white)
+&nbsp;
+![MCP](https://img.shields.io/badge/MCP-10B981?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 What I've Shipped
+
+### 🌍 Travel CO₂ Calculator — [Treesy.dk](https://treesy.dk)
 Built a production carbon-footprint calculator for a Denmark-based climate-tech startup. Started in Vanilla JavaScript, then migrated the entire tool to **Next.js 15 App Router** while it was live and being used by real business clients. Includes a 4-source geocoding fallback (IATA airport codes → Nominatim → Photon → Google Maps Places API) to handle edge cases that single-source geocoding couldn't cover.
 
-**Stack:** Next.js 15 · Python · FastAPI · Tailwind CSS · Google Maps API · REST APIs · Data Engineering
+**Stack:** `Next.js 15` · `Python` · `FastAPI` · `Tailwind CSS` · `Google Maps API` · `REST APIs` · `Data Engineering`
 
 ---
 
-### B2B Lead Pipeline
-
+### 📊 B2B Lead Pipeline
 Built a 3-script Python data pipeline for Danish company research. Used the Virk CVR Elasticsearch API for bulk extraction, proff.dk for contact enrichment, and cvrapi.dk for deduplication and field normalization. Delivered **7,984 verified Danish company records** as a clean CSV to the sales team — replacing weeks of manual research.
 
-**Stack:** Python · Web Scraping · REST APIs · Data Engineering
+**Stack:** `Python` · `Web Scraping` · `REST APIs` · `Data Engineering`
 
 ---
 
-### Certificate Generation System
-
+### 📜 Certificate Generation System
 Built an automated HTML certificate generation system supporting 4 tiers: Active, Committed, Hero, and Legend Planter. Uses variable injection templates (`{{NAME}}`, `{{DATE}}`, `{{CERT_NUMBER}}`) wired into FastAPI and Supabase for real-time issuance.
 
-**Stack:** FastAPI · Supabase · Python · HTML Templates
+**Stack:** `FastAPI` · `Supabase` · `Python` · `HTML Templates`
 
 ---
 
-### DocuMind — RAG Document Assistant
-
+### 🤖 DocuMind — RAG Document Assistant
 Built a Retrieval-Augmented Generation document assistant designed to reduce unsupported LLM answers by grounding responses in uploaded documents. Uses vector-based retrieval to provide cited, contextual answers.
 
-**Stack:** FastAPI · LangChain · ChromaDB · Hugging Face · OpenRouter · React
+**Stack:** `FastAPI` · `LangChain` · `ChromaDB` · `Hugging Face` · `OpenRouter` · `React`
 
 ---
 
-### SnapClass — Biometric Attendance System
-
+### 🔐 SnapClass — Biometric Attendance System
 Built a biometric attendance system combining face recognition (dlib + scikit-learn SVC) and voice recognition (Resemblyzer + librosa) with a Supabase backend and Streamlit frontend.
 
 **Links:** [Landing Page](https://landing-page-smart-class-q221.vercel.app/)
 
-**Stack:** dlib · scikit-learn · Resemblyzer · librosa · Supabase · Streamlit
+**Stack:** `dlib` · `scikit-learn` · `Resemblyzer` · `librosa` · `Supabase` · `Streamlit`
 
 ---
 
-### AdFeed Studio — Ad Preview Generator
-
+### 🎯 AdFeed Studio — Ad Preview Generator
 Built a product-feed parser and advertising preview tool that generates ad preview cards in Meta, TikTok, and Google Shopping formats. Takes structured product data and reduces manual creative work.
 
-**Stack:** React · Python · REST APIs
+**Stack:** `React` · `Python` · `REST APIs`
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### AI & Data Strategy Intern — [Treesy.dk](https://treesy.dk)
-
-**February 2026 – May 2026** · Remote (India)
+**February 2026 – May 2026** · Remote (India / Denmark)
 
 Treesy is a Denmark-based climate-tech startup helping businesses measure and offset their carbon footprint through tree planting.
 
@@ -95,74 +292,32 @@ Treesy is a Denmark-based climate-tech startup helping businesses measure and of
 - Conducted competitor pricing and market research for outbound targeting
 
 ### Full-Stack Developer & AI Engineer — Freelance & Academic Projects
-
 **September 2023 – Present** · Bareilly, India
 
 - Built SnapClass (biometric attendance: face + voice recognition)
 - Built AdFeed Studio (product feed parser → ad previews for Meta, TikTok, Google Shopping)
 - Shipped 5+ MERN applications to production, focused on mobile usability and reliability
-- Integrated Oracle OCI services and third-party APIs across multiple platforms
+- Connected Oracle OCI services and third-party APIs across multiple platforms
 
 ---
 
-## 🛠️ Technology Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,javascript,tailwind,nodejs,express,mongodb,postgres,supabase,docker,githubactions,git,html,css,vscode" alt="Tech Stack" />
-</p>
-
-<br />
-
-#### 🧠 Generative AI, RAG & LLMs
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-06B6D4?style=for-the-badge&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-EC4899?style=for-the-badge&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-10B981?style=for-the-badge&logoColor=white)
-
-#### 💻 Full-Stack & Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js 15](https://img.shields.io/badge/Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### ⚙️ Backend, Data & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF5722?style=for-the-badge&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-4CAF50?style=for-the-badge&logoColor=white)
-
-#### 🗄️ Databases & Cloud Infrastructure
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## Education
+## 🎓 Education
 
 **Bachelor of Computer Applications (BCA) in Artificial Intelligence**  
 Invertis University · September 2023 – May 2026
 
+**Senior Secondary School (XII, Science)**  
+Saraswati Vidhya Mandir · April 2022 – May 2023
+
 ---
 
-## Certifications
+## 🏆 Certifications
 
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
-- **Gemini Certified University Student** — Google
-- **McKinsey.org Forward Program**
-- **Getting Started Building an On-Premise Data Warehouse using SAP BW/4HANA** — Course Completion
-- **Introduction to Data Science**
+- ☁️ **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**
+- 🌟 **Gemini Certified University Student** — Google
+- 📈 **McKinsey.org Forward Program**
+- 💾 **Getting Started Building an On-Premise Data Warehouse using SAP BW/4HANA**
+- 🔬 **Introduction to Data Science**
 
 ---
 
@@ -198,7 +353,20 @@ Invertis University · September 2023 – May 2026
 
 ---
 
-<p align="center">
-  <strong>Looking for an AI Engineer or Full-Stack Developer who ships production code?</strong><br />
-  <a href="mailto:us5533400@gmail.com">us5533400@gmail.com</a> · <a href="https://www.linkedin.com/in/ujjwal-sharma-ai">LinkedIn</a> · <a href="https://ujjwal-sharma-dev.netlify.app/">Portfolio</a>
-</p>
+<div align="center">
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-sharma-ai)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:us5533400@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://ujjwal-sharma-dev.netlify.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/us8024435-debug)
+
+<br/>
+
+*“I don't just learn tools — I ship with them.”*
+
+</div>
