@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://know-about-myself-odot.vercel.app/">
+  <a href="https://ujjwal-sharma-dev.netlify.app/">
     <img src="chat.svg" alt="Ujjwal Sharma - AI Engineer &amp; Full-Stack Developer" width="580" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="mailto:us5533400@gmail.com"><img src="https://img.shields.io/badge/Email-us5533400%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ujjwal-sharma-ai"><img src="https://img.shields.io/badge/LinkedIn-ujjwal--sharma--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://know-about-myself-odot.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ujjwal--sharma--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ujjwal-sharma-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ujjwal--sharma--dev-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -176,5 +176,5 @@ Invertis University · September 2023 – May 2026
 
 <p align="center">
   <strong>Looking for an AI Engineer or Full-Stack Developer who ships production code?</strong><br />
-  <a href="mailto:us5533400@gmail.com">us5533400@gmail.com</a> · <a href="https://www.linkedin.com/in/ujjwal-sharma-ai">LinkedIn</a> · <a href="https://know-about-myself-odot.vercel.app/">Portfolio</a>
+  <a href="mailto:us5533400@gmail.com">us5533400@gmail.com</a> · <a href="https://www.linkedin.com/in/ujjwal-sharma-ai">LinkedIn</a> · <a href="https://ujjwal-sharma-dev.netlify.app/">Portfolio</a>
 </p>
